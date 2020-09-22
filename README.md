@@ -1,2 +1,2 @@
 # FullstackModule5Solution
-module 5 assignmetn solution
+module 5 assignment solution
